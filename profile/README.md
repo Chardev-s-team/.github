@@ -40,7 +40,7 @@ horario     → Lun–Vie 3PM–8:30PM · Sáb 1PM–5PM
 | **[CharBot](https://charbot.xyz)** | `active` `v1.1.0` | Bot de Discord activo en múltiples servidores. Sistema de música, IA conversacional y notificaciones NVIDIA. | `discord.js` `node.js` |
 | **CharBot IA** | `active` | Módulo de IA conversacional con memoria expandida y filtros anti-manipulación integrado en CharBot. | `python` `llm` |
 | **[ZaFe](https://chardevteam.charbot.xyz/zafeinicio)** | `active` | Primera plataforma colombiana que mapea robos de celulares en tiempo real. Reporta, rastrea y protege tu zona. | `javascript` `maps` |
-| **ChardevOS** | `wip` | Sistema operativo experimental bajo Chardev's Team. | `c++` `systems` |
+| **ChardevOS** | `wip` | Sistema operativo experimental bajo Chardev's Team. | `cdev` |
 
 ---
 
