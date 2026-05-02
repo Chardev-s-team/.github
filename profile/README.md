@@ -62,7 +62,7 @@ Mantenimiento       → Soporte continuo y actualizaciones
 | miembro | rol | skills |
 |:---|:---|:---|
 | **[Charmander58](https://twitter.com/Charmander582)** | Fundador & Lead Developer | `swift` `c++` `python` `javascript` `java` |
-| **Nykaleit** | Programador & Editor de Video | `python` `c++` `video editing` |
+| **[Nykaleit](https://x.com/Nykaleit)** | Programador & Editor de Video | `python` `c++` `video editing` |
 | **B ɪᴍɴᴏᴛᴀɴɪᴄᴋ..** | Marketing & Asesoría Estratégica | `marketing` `strategy` `analytics` |
 | **.\*\_Cry-Cat\_\*.** | Diseñadora Gráfica | `branding` `ui design` `visual identity` |
 
